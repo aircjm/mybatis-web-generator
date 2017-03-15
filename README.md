@@ -1,5 +1,7 @@
 # Mybatis图形化界面生成工具
 
+
+## 说明:
 通过图形化界面生成Mybatis所需要的entity、mapper、dao文件,提供文件压缩包的下载.
 
 
@@ -9,6 +11,8 @@
 该工程完全基于开源项目,项目自带Mybatis-generator-core 1.3.3正式版本源码 支持各种diy.例如生成自定义注释等等.
 
 
+
+## 建议:
 代码注释,无论是.java文件还是.xml文件的注释都是在DefaultCommentGenerator该类中的方法生成的.
 
 
@@ -21,7 +25,7 @@
 - [ ] 考虑去除模块名输入,默认按照表名的大驼峰命名作为模块名
 
 
-参考资料:
+## 参考资料:
 
 [https://github.com/zhongxintech/generator-web](https://github.com/zhongxintech/generator-web)
 
