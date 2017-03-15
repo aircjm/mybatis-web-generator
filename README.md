@@ -4,11 +4,12 @@
 
 
 
+
 适合团队使用,避免每个人使用不同的Mybatis工具.
+该工程完全基于开源项目,项目自带Mybatis-generator-core 1.3.3正式版本源码 支持各种diy.例如生成自定义注释等等.
 
-项目自带Mybatis-generator-core源码 支持各种自定义修改.
 
-
+代码注释,无论是.java文件还是.xml文件的注释都是在DefaultCommentGenerator该类中的方法生成的.
 
 
 
